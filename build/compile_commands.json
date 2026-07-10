@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/hiiam/Packet_analyzer/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hiiam/Packet_analyzer/include -std=gnu++17 -o CMakeFiles\\packet_analyzer.dir\\src\\main.cpp.obj -c C:\\Users\\hiiam\\Packet_analyzer\\src\\main.cpp",
+  "file": "C:/Users/hiiam/Packet_analyzer/src/main.cpp",
+  "output": "C:/Users/hiiam/Packet_analyzer/build/CMakeFiles/packet_analyzer.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/hiiam/Packet_analyzer/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hiiam/Packet_analyzer/include -std=gnu++17 -o CMakeFiles\\packet_analyzer.dir\\src\\pcap_reader.cpp.obj -c C:\\Users\\hiiam\\Packet_analyzer\\src\\pcap_reader.cpp",
+  "file": "C:/Users/hiiam/Packet_analyzer/src/pcap_reader.cpp",
+  "output": "C:/Users/hiiam/Packet_analyzer/build/CMakeFiles/packet_analyzer.dir/src/pcap_reader.cpp.obj"
+},
+{
+  "directory": "C:/Users/hiiam/Packet_analyzer/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -IC:/Users/hiiam/Packet_analyzer/include -std=gnu++17 -o CMakeFiles\\packet_analyzer.dir\\src\\packet_parser.cpp.obj -c C:\\Users\\hiiam\\Packet_analyzer\\src\\packet_parser.cpp",
+  "file": "C:/Users/hiiam/Packet_analyzer/src/packet_parser.cpp",
+  "output": "C:/Users/hiiam/Packet_analyzer/build/CMakeFiles/packet_analyzer.dir/src/packet_parser.cpp.obj"
+}
+]
